@@ -1,0 +1,52 @@
+[
+  {
+    "id": "123456",
+    "type": "Scooter",
+    "isLock": "Lock",
+    "currentSpeed": 0,
+    "batteryLvl": 100,
+    "status": "PARKING",
+    "location": "3.142, 114.5555",
+    "lastUpdate": "2019-07-02 9:00AM"
+  },
+  {
+    "id": "987654",
+    "type": "Scooter",
+    "isLock": "Unlock",
+    "currentSpeed": 5,
+    "batteryLvl": 75,
+    "status": "MOVING",
+    "location": "3.142, 114.5555",
+    "lastUpdate": "2019-07-02 10:00AM"
+  },
+  {
+    "id": "569825",
+    "type": "Scooter",
+    "isLock": "Unlock",
+    "currentSpeed": 0,
+    "batteryLvl": 50,
+    "status": "IDLING",
+    "location": "3.142, 114.5555",
+    "lastUpdate": "2019-07-02 10:00AM"
+  },
+  {
+    "id": "125864",
+    "type": "Scooter",
+    "isLock": "Lock",
+    "currentSpeed": 15,
+    "batteryLvl": 100,
+    "status": "TOWING",
+    "location": "3.142, 114.5555",
+    "lastUpdate": "2019-07-02 10:00AM"
+  },
+  {
+    "id": "125864",
+    "type": "Scooter",
+    "isLock": "Lock",
+    "currentSpeed": 0,
+    "batteryLvl": 100,
+    "status": "TOWING",
+    "location": "3.142, 114.5555",
+    "lastUpdate": "2019-07-02 10:00AM"
+  }
+]
